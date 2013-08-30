@@ -1,0 +1,2 @@
+mysqldump -h192.126.119.68 -uyourname -p1234 data_download > /home/xieyu/data_download.sql
+
